@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a5ec4d2-5937-4b55-9c73-62ff0f5ec02e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnymV2V3ZUK3H4AhouB6wL6dw0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hamcrest-core-1.3.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="waits" />
+      <recent name="javascript" />
+      <recent name="alert" />
+      <recent name="webtable" />
+      <recent name="stateofelement" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PrimeBatch_3\selenium-practice\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest.verifyErrorMessageWhenWrongUserNameIsEntered">
+    <configuration name="JUNITIntroduction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JUNITIntroduction" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUNITIntroduction.verifyIShouldNavigateToLoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JUNITIntroduction" />
+      <option name="METHOD_NAME" value="verifyIShouldNavigateToLoginPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyErrorMessageWhenWrongUserNameIsEntered" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="verifyErrorMessageWhenWrongUserNameIsEntered" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyUserShouldNavigateToLoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldNavigateToLoginPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest.verifyErrorMessageWhenWrongUserNameIsEntered" />
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.LoginTest.verifyUserShouldNavigateToLoginPage" />
+        <item itemvalue="JUnit.JUNITIntroduction" />
+        <item itemvalue="JUnit.JUNITIntroduction.verifyIShouldNavigateToLoginPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a5ec4d2-5937-4b55-9c73-62ff0f5ec02e" name="Default Changelist" comment="" />
+      <created>1583592811849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583592811849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="98" y="68" width="1170" height="592" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584207587264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1458" y="20" width="1096" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202253359" />
+    <state x="98" y="68" width="1170" height="592" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1584207587264" />
+    <state x="1686" y="63" key="FileChooserDialogImpl" timestamp="1584199543640">
+      <screen x="1366" y="-72" width="1280" height="984" />
+    </state>
+    <state x="1686" y="63" key="FileChooserDialogImpl/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584199543640" />
+    <state x="342" y="14" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584138181588" />
+    <state x="1846" y="143" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584117753450" />
+    <state width="1299" height="229" key="GridCell.Tab.0.bottom" timestamp="1584207771114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1213" height="357" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
+    <state width="1299" height="310" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584138567508" />
+    <state width="1853" height="239" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470274" />
+    <state width="1299" height="229" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584207771114" />
+    <state width="1299" height="229" key="GridCell.Tab.0.center" timestamp="1584207771114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1213" height="357" key="GridCell.Tab.0.center/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
+    <state width="1299" height="310" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584138567508" />
+    <state width="1853" height="239" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470273" />
+    <state width="1299" height="229" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584207771114" />
+    <state width="1299" height="229" key="GridCell.Tab.0.left" timestamp="1584207771113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1213" height="357" key="GridCell.Tab.0.left/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
+    <state width="1299" height="310" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584138567508" />
+    <state width="1853" height="239" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470273" />
+    <state width="1299" height="229" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584207771113" />
+    <state width="1299" height="229" key="GridCell.Tab.0.right" timestamp="1584207771114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1213" height="357" key="GridCell.Tab.0.right/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
+    <state width="1299" height="310" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584138567508" />
+    <state width="1853" height="239" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470274" />
+    <state width="1299" height="229" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584207771114" />
+    <state x="1366" y="-72" key="SettingsEditor" timestamp="1584199546445">
+      <screen x="1366" y="-72" width="1280" height="984" />
+    </state>
+    <state x="1366" y="-72" key="SettingsEditor/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584199546445" />
+    <state x="1890" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1584117718419">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1890" y="264" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584117718419" />
+  </component>
+</project>
