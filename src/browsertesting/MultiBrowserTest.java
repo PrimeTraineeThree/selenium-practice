@@ -1,5 +1,6 @@
 package browsertesting;
 
+import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -28,6 +29,7 @@ public class MultiBrowserTest {
         }else {
             System.out.println("Wrong browser selected");
         }
+        driver.manage().window().setPosition(new Point(-2000,0));//display 2
         driver.get(baseURL);
         driver.quit();
     }

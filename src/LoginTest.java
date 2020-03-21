@@ -2,11 +2,9 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Point;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.util.concurrent.TimeUnit;
 
@@ -23,9 +21,12 @@ public class LoginTest {
         // Open chrome browser
         String baseUrl = "https://demo.nopcommerce.com//";
         System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
-        driver = new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.setPageLoadStrategy(PageLoadStrategy.NONE);
+        driver = new ChromeDriver(options);
         driver.manage().window().setPosition(new Point(2000, 0));//display into second screen
         driver.manage().window().maximize();
+        driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(baseUrl);
     }

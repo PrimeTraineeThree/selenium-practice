@@ -1,5 +1,6 @@
 package browsertesting;
 
+import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
@@ -14,6 +15,7 @@ public class FirefoxBrowserTest {
         String baseUrl = "https://demo.nopcommerce.com/";
         System.setProperty("webdriver.gecko.driver", "drivers/geckodriver.exe");
         WebDriver driver = new FirefoxDriver();
+        driver.manage().window().setPosition(new Point(-2000,0));//display 2
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(baseUrl);
