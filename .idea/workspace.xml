@@ -2,53 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a5ec4d2-5937-4b55-9c73-62ff0f5ec02e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/actionclass/TestDragAndDrop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/actionclass/TestKeyboardEvents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/actionclass/TestMouseOver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/actionclass/TestResizable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/actionclass/TestRightClick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/actionclass/TestSliders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/alert/TestAlert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/checkboxandradiobutton/TestCheckboxeRadio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/checkboxandradiobutton/TestCheckboxes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/javascript/TestWindowScroll.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/javascript/TestWindowSize.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/selectclass/TestDropDown.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/stateofelement/TestIsElementPresent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/stateofelement/TestIsElementSelected.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/waits/TestExplicitWait.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/waits/TestImplicitWait.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-practice/webtable/TestWebTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actionclass/TestDragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actionclass/TestKeyboardEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actionclass/TestMouseOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actionclass/TestResizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actionclass/TestRightClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actionclass/TestSliders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alert/TestAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkboxandradiobutton/TestCheckboxeRadio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkboxandradiobutton/TestCheckboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javascript/TestWindowScroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javascript/TestWindowSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selectclass/TestDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stateofelement/TestIsElementPresent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stateofelement/TestIsElementSelected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/waits/TestExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/waits/TestImplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webtable/TestWebTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utility/Utility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-practice/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-practice/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-practice/TestFindFirstElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-practice/TestFindFirstElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-practice/browsertesting/ChromeBrowserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-practice/browsertesting/ChromeBrowserTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-practice/browsertesting/FirefoxBrowserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-practice/browsertesting/FirefoxBrowserTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-practice/browsertesting/IEBrowserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-practice/browsertesting/IEBrowserTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-practice/browsertesting/MultiBrowserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-practice/browsertesting/MultiBrowserTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/selenium-practice/alert/TestAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-practice/alert/TestAlert.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/browsertesting/ChromeBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/browsertesting/ChromeBrowserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/browsertesting/FirefoxBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/browsertesting/FirefoxBrowserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/browsertesting/IEBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/browsertesting/IEBrowserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/browsertesting/MultiBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/browsertesting/MultiBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alert/TestAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/alert/TestAlert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +58,47 @@
       <recent name="C:\PrimeBatch_3\selenium-practice\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestDropDown.dropDownExample">
+  <component name="RunManager" selected="JUnit.LoginTest.verifyUserShouldNavigateToLoginPage">
+    <configuration name="BooksTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest.assertPositionLowToHigh" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomeWorkTest" />
+      <option name="METHOD_NAME" value="assertPositionLowToHigh" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyUserShouldNavigateToLoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldNavigateToLoginPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDropDown.dropDownExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium-practice" />
       <extension name="coverage">
@@ -114,77 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRightClick.rightClick" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="actionclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="actionclass" />
-      <option name="MAIN_CLASS_NAME" value="actionclass.TestRightClick" />
-      <option name="METHOD_NAME" value="rightClick" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSliders.sliderExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="actionclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="actionclass" />
-      <option name="MAIN_CLASS_NAME" value="actionclass.TestSliders" />
-      <option name="METHOD_NAME" value="sliderExample" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestWindowScroll.windowScrollExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javascript.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="javascript" />
-      <option name="MAIN_CLASS_NAME" value="javascript.TestWindowScroll" />
-      <option name="METHOD_NAME" value="windowScrollExample" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestWindowSize.windowSizeExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javascript.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="javascript" />
-      <option name="MAIN_CLASS_NAME" value="javascript.TestWindowSize" />
-      <option name="METHOD_NAME" value="windowSizeExample" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LoginTest.verifyUserShouldNavigateToLoginPage" />
+        <item itemvalue="JUnit.BooksTest.test01" />
+        <item itemvalue="JUnit.HomeWorkTest.assertPositionLowToHigh" />
+        <item itemvalue="JUnit.BooksTest.test02" />
         <item itemvalue="JUnit.TestDropDown.dropDownExample" />
-        <item itemvalue="JUnit.TestWindowSize.windowSizeExample" />
-        <item itemvalue="JUnit.TestWindowScroll.windowScrollExample" />
-        <item itemvalue="JUnit.TestSliders.sliderExample" />
-        <item itemvalue="JUnit.TestRightClick.rightClick" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +136,19 @@
       <option name="presentableId" value="Default" />
       <updated>1583592811849</updated>
     </task>
+    <task id="LOCAL-00001" summary="Today's class 21/03/2020">
+      <created>1584805725602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584805725603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Today's class 21/03/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Today's class 21/03/2020" />
   </component>
   <component name="WindowStateProjectService">
     <state x="98" y="68" width="1170" height="592" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584207587264">
@@ -215,62 +164,117 @@
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
     <state x="-1598" y="-132" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584703362141" />
-    <state x="-1355" y="18" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584738592403">
-      <screen x="-1920" y="-132" width="1920" height="1040" />
+    <state x="402" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585327294378">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1355" y="18" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584738592403" />
-    <state x="1686" y="63" key="FileChooserDialogImpl" timestamp="1584199543640">
-      <screen x="1366" y="-72" width="1280" height="984" />
+    <state x="402" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585327294378" />
+    <state x="-1318" y="-43" key="#xdebugger.evaluate" timestamp="1585391964149">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
+    <state x="-1318" y="-43" key="#xdebugger.evaluate/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391964149" />
+    <state x="-1446" y="-132" key="CommitChangelistDialog2" timestamp="1584805720873">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1446" y="-132" key="CommitChangelistDialog2/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584805720873" />
+    <state width="569" height="700" key="DebuggerActiveHint" timestamp="1585391257914">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state width="569" height="700" key="DebuggerActiveHint/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391257914" />
+    <state x="-1440" y="11" key="FileChooserDialogImpl" timestamp="1585409266725">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1440" y="11" key="FileChooserDialogImpl/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585409266725" />
     <state x="1686" y="63" key="FileChooserDialogImpl/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584199543640" />
     <state x="342" y="14" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584138181588" />
     <state x="1846" y="143" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584117753450" />
-    <state width="1853" height="752" key="GridCell.Tab.0.bottom" timestamp="1584802742444">
+    <state width="1853" height="349" key="GridCell.Tab.0.bottom" timestamp="1585391979444">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
-    <state width="1853" height="752" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584802742444" />
+    <state width="1853" height="349" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391979444" />
     <state width="1213" height="357" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
-    <state width="1317" height="386" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584565253239" />
+    <state width="1299" height="240" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585172957862" />
     <state width="1853" height="239" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470274" />
-    <state width="1303" height="469" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584719595689" />
-    <state width="1853" height="752" key="GridCell.Tab.0.center" timestamp="1584802742444">
+    <state width="1299" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585326818507" />
+    <state width="1853" height="349" key="GridCell.Tab.0.center" timestamp="1585391979444">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
-    <state width="1853" height="752" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584802742444" />
+    <state width="1853" height="349" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391979444" />
     <state width="1213" height="357" key="GridCell.Tab.0.center/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
-    <state width="1317" height="386" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584565253238" />
+    <state width="1299" height="240" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585172957862" />
     <state width="1853" height="239" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470273" />
-    <state width="1303" height="469" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584719595689" />
-    <state width="1853" height="752" key="GridCell.Tab.0.left" timestamp="1584802742444">
+    <state width="1299" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585326818507" />
+    <state width="1853" height="349" key="GridCell.Tab.0.left" timestamp="1585391979444">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
-    <state width="1853" height="752" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584802742444" />
+    <state width="1853" height="349" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391979444" />
     <state width="1213" height="357" key="GridCell.Tab.0.left/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
-    <state width="1317" height="386" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584565253237" />
+    <state width="1299" height="240" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585172957862" />
     <state width="1853" height="239" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470273" />
-    <state width="1303" height="469" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584719595689" />
-    <state width="1853" height="752" key="GridCell.Tab.0.right" timestamp="1584802742444">
+    <state width="1299" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585326818507" />
+    <state width="1853" height="349" key="GridCell.Tab.0.right" timestamp="1585391979444">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
-    <state width="1853" height="752" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584802742444" />
+    <state width="1853" height="349" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391979444" />
     <state width="1213" height="357" key="GridCell.Tab.0.right/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584202884013" />
-    <state width="1317" height="386" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584565253238" />
+    <state width="1299" height="240" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585172957862" />
     <state width="1853" height="239" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583785470274" />
-    <state width="1303" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584719595689" />
+    <state width="1299" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585326818507" />
+    <state width="1853" height="349" key="GridCell.Tab.1.bottom" timestamp="1585391979445">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state width="1853" height="349" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391979445" />
+    <state width="1853" height="349" key="GridCell.Tab.1.center" timestamp="1585391979445">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state width="1853" height="349" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391979445" />
+    <state width="1853" height="349" key="GridCell.Tab.1.left" timestamp="1585391979445">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state width="1853" height="349" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391979445" />
+    <state width="1853" height="349" key="GridCell.Tab.1.right" timestamp="1585391979445">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state width="1853" height="349" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585391979445" />
+    <state x="-1580" y="0" key="IDE.errors.dialog" timestamp="1585080928477">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1580" y="0" key="IDE.errors.dialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585080928477" />
     <state x="-1920" y="-132" key="SettingsEditor" timestamp="1584788979919">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
     <state x="-1920" y="-132" key="SettingsEditor/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584788979919" />
     <state x="1366" y="-72" key="SettingsEditor/0.0.1366.728/1366.-72.1280.984@1366.-72.1280.984" timestamp="1584199546445" />
     <state x="0" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584650883087" />
-    <state x="1890" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1584401413539">
-      <screen x="1366" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1890" y="264" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584401413539" />
-    <state x="-1434" y="-132" width="1009" height="1036" key="search.everywhere.popup" timestamp="1584788507915">
+    <state x="-1568" y="-6" key="Vcs.Push.Dialog.v2" timestamp="1584805730606">
       <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1568" y="-6" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584805730606" />
+    <state x="-1396" y="132" key="com.intellij.ide.util.TipDialog" timestamp="1585383981885">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1396" y="132" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585383981885" />
+    <state x="1890" y="264" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584401413539" />
+    <state x="-1868" y="-106" key="new project wizard" timestamp="1585409453534">
+      <screen x="-1920" y="-132" width="1920" height="1040" />
+    </state>
+    <state x="-1868" y="-106" key="new project wizard/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585409453534" />
+    <state x="346" y="0" width="718" height="726" key="search.everywhere.popup" timestamp="1585170635132">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1434" y="-132" width="1009" height="1036" key="search.everywhere.popup/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1584788507915" />
     <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584650832158" />
+    <state x="346" y="0" width="718" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585170635132" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BooksTest.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

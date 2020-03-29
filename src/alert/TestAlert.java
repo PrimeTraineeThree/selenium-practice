@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class TestAlert {
 
-    private String baseUrl = "https://jqueryui.com/resources/demos/slider/default.html";
+    private String baseUrl = "https://mail.rediff.com/cgi-bin/login.cgi";
     private WebDriver driver;
 
     @Before

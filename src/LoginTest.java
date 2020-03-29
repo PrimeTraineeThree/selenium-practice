@@ -5,16 +5,17 @@ import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import utility.Utility;
 
 import java.util.concurrent.TimeUnit;
 
 /**
  * Created by Jay
  */
-public class LoginTest {
+public class LoginTest extends Utility{
 
-    // Declare Web driver globle variable
-    private WebDriver driver;
+    // Declare Web driver global variable
+
 
     @Before
     public void openBrowser(){
@@ -31,17 +32,20 @@ public class LoginTest {
         driver.get(baseUrl);
     }
 
+
+
     @Test
     public void verifyUserShouldNavigateToLoginPage(){
         // Finding the login link element and click on login link element
-        WebElement loginLink = driver.findElement(By.linkText("Log in"));
-        loginLink.click();
+        /*WebElement loginLink = driver.findElement(By.linkText("Log in"));
+        loginLink.click();*/
+        clickOnElement(By.linkText("Log in"));
         // Finding the Welcome text element
-        WebElement welcomeText = driver.findElement(By.xpath("//h1[contains(text(), 'Welcome, Please Sign In!')]"));
+//        WebElement welcomeText = driver.findElement(By.xpath("//h1[contains(text(), 'Welcome, Please Sign In!')]"));
         // This is expected text from Requirement
         String expectedText = "Welcome, Please Sign In!";
         // Get text from Welcome text element from web site
-        String actualText = welcomeText.getText();
+        String actualText = getTextFromElement(By.xpath("//h1[contains(text(), 'Welcome, Please Sign In!')]"));
         // verifying actualText and expectedText
         Assert.assertEquals(expectedText, actualText);
     }
@@ -49,29 +53,36 @@ public class LoginTest {
     @Test
     public void verifyErrorMessageWhenWrongUserNameIsEntered() throws InterruptedException {
         // Finding the login link element and click on login link element
-        WebElement loginLink = driver.findElement(By.linkText("Log in"));
-        loginLink.click();
+        /*WebElement loginLink = driver.findElement(By.linkText("Log in"));
+        loginLink.click();*/
+        clickOnElement(By.linkText("Log in"));
         // Thread.slip method used for hold execution
         Thread.sleep(1000);
         // Finding the emailField element
-        WebElement emailField = driver.findElement(By.id("Email"));
+        /*WebElement emailField = driver.findElement(By.id("Email"));
         // Send email address to emailField element
-        emailField.sendKeys("abc@gmail.com");
+        emailField.sendKeys("abc@gmail.com");*/
+        sendTextToElement(By.id("Email"), "abc@gamil.com");
+
         // Finding the passwordField element
-        WebElement passwordField = driver.findElement(By.name("Password"));
+      /*  WebElement passwordField = driver.findElement(By.name("Password"));
         // Send password to passwordField element
-        passwordField.sendKeys("Abc123");
+        passwordField.sendKeys("Abc123");*/
+        sendTextToElement(By.name("Password"), "Abc123");
+
+
         //Finding the login button element
-        WebElement loginBtn =driver.findElement(By.xpath("//input[@value='Log in']"));
+       /* WebElement loginBtn =driver.findElement(By.xpath("//input[@value='Log in']"));
         // Clicking on login button element
-        loginBtn.click();
+        loginBtn.click();*/
+        clickOnElement(By.xpath("//input[@value='Log in']"));
         //Finding element of error message
-        WebElement errorMsg = driver.findElement(By.xpath("//div[@class='message-error validation-summary-errors']"));
-        // This is expected message from Requirement
+//        WebElement errorMsg = driver.findElement(By.xpath("//div[@class='message-error validation-summary-errors']"));
+        //        // This is expected message from Requirement
         String expectedErrorMessage ="Login was unsuccessful. Please correct the errors and try again.\n" +
                 "The credentials provided are incorrect";
         // This is actual error message from web site
-        String actualErrorMessage = errorMsg.getText();
+        String actualErrorMessage = getTextFromElement(By.xpath("//div[@class='message-error validation-summary-errors']"));
         // Asserting expectedMessage and actualMessage
         Assert.assertEquals(expectedErrorMessage,actualErrorMessage);
     }
